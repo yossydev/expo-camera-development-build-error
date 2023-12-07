@@ -1,3 +1,10 @@
+## How was this project made?
+
+```bash
+$ npx create-expo-app@latest --template tabs@49 // https://docs.expo.dev/router/installation/
+$ npx expo install expo-camera // https://docs.expo.dev/versions/latest/sdk/camera
+```
+
 ## Environment Setup
 
 ```bash
